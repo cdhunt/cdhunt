@@ -1,16 +1,57 @@
-### Hi there 👋
+# Christopher Hunt
 
-<!--
-**cdhunt/cdhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pronouns: He/Him
 
-Here are some ideas to get you started:
+## Professional Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Versatile, results-driven IT Manager & Senior Engineer with over 20 years of experience in demanding high-volume environments. Recognized for leveraging broad business acumen, technical expertise, and analytical skills to help organizations achieve their strategic objectives and articulate a vision for the future. 
+
+- Proficient at designing enterprise-wide technology solutions that substantially improve operating stability, efficiency, and profitability.  
+- Consistently demonstrate practical yet imaginative approaches to service delivery, workflow management, and process improvement.     
+- Adept at partnering with interdepartmental resources and technical teams to plan, integrate, and execute complex project plans on time and within budget. 
+
+## Technical Summary
+
+### Platforms
+
+Windows, Linux, AWS, Azure, Kubernetes
+
+### Languages
+
+PowerShell, SQL, C#, JavaScript, Go
+
+### Software
+
+SignalFx, NewRelic, Git/GitHub/GitLab, CircleCI, TeamCity, Azure Devops, Octopus Deploy, Ansible/Chef, Docker, Grafana, OpenTsdb, Docker, Terraform
+
+## Community
+
+- [stackoverflow.com/users/1050536/logicaldiagram](https://stackoverflow.com/users/1050536/logicaldiagram)
+- [CircleCI Champion](https://discuss.circleci.com/badges/109/circleci-champion?username=cdhunt)
+- [@logicaldiagram](https://twitter.com/logicaldiagram)
+
+## Professional History
+
+### Stack Overflow _World's largest and most trusted Developer Community_ 
+REMOTE
+
+#### 2021 - Present
+
+_Staff Site Reliability Engineer_
+
+#### 2019-2021
+
+_Senior Site Reliability Engineer_
+
+### Ticketmaster _Leading Live Event high-tech ticketing company_
+CHANTILLY, VA
+
+#### 2015 - 2018
+
+_Senior Systems Engineer_
+
+### Verint _Leading provider of Customer Engagement Optimization solutions_
+
+#### 2009 - 2015
+
+_Systems Engineer_
