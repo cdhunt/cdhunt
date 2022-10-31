@@ -26,9 +26,10 @@ SignalFx, NewRelic, Git/GitHub/GitLab, CircleCI, TeamCity, Azure Devops, Octopus
 
 ## Community
 
-- [stackoverflow.com/users/1050536/logicaldiagram](https://stackoverflow.com/users/1050536/logicaldiagram)
-- [CircleCI Champion](https://discuss.circleci.com/badges/109/circleci-champion?username=cdhunt)
-- [@logicaldiagram](https://twitter.com/logicaldiagram)
+- <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/stackoverflow.svg"/> [stackoverflow.com/users/1050536/logicaldiagram](https://stackoverflow.com/users/1050536/logicaldiagram)
+- <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/circleci.svg"/> [CircleCI Champion](https://discuss.circleci.com/badges/109/circleci-champion?username=cdhunt)
+- <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg"/> [@logicaldiagram](https://twitter.com/logicaldiagram)
+- <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mastodon.svg"/> <a rel="me" href="https://hachyderm.io/@chris_hunt">Mastodon</a>
 
 ## Professional History
 
