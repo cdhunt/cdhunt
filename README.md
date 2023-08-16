@@ -33,10 +33,17 @@ SignalFx, NewRelic, Git/GitHub/GitLab, CircleCI, TeamCity, Azure Devops, Octopus
 
 ## Professional History
 
+### FreedomPay
+REMOTE
+
+#### 2023 - present
+
+_DevOps_
+
 ### Stack Overflow _World's largest and most trusted Developer Community_ 
 REMOTE
 
-#### 2021 - Present
+#### 2021 - 2023
 
 _Staff Site Reliability Engineer_
 
